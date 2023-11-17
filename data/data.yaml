@@ -1,0 +1,3 @@
+Data:
+    path: 'models/best.pt'
+    conf_thresh: 0.40
